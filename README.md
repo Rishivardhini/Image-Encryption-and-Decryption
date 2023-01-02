@@ -36,25 +36,8 @@
 - After that download the code file, and run image_encryption_decryption.py on local system.
 - Then the script will start running and user can explore it by encrypting and decrypting any image and saving it.
 
-****
-
-### SCREENSHOTS :
-
-<p align="center">
-  <img width = 1000 src="Images/1.jpg" /><br>
-  <img width = 1000 src="Images/2.jpg" /><br>
-  <img width = 1000 src="Images/3.jpg" /><br>
-  <img width = 1000 src="Images/4.jpg" /><br>
-  <img width = 1000 src="Images/5.jpg" /><br>
-  <img width = 1000 src="Images/6.jpg" /><br>
-  <img width = 1000 src="Images/7.jpg" /><br>
-  <img width = 1000 src="Images/8.jpg" /><br>
-  <img width = 1000 src="Images/9.jpg" /><br>
-  <img width = 1000 src="Images/10.jpg" /><br>
-  <img width = 1000 src="Images/11.jpg" /><br>
-</p>
 
 ****
 
 ### Name : 
-- Akash Ramanand Rajak
+- RISHIVARDHINI
